@@ -11,3 +11,4 @@ obs: imprimir todos os eventos no monitor serial
 * ligar LED2
 * ler potenciômetro
 * ligar led map
+* antes de fechar a função looping colocar um delay de 42 millis
